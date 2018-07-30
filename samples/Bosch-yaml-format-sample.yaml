@@ -1,0 +1,9 @@
+- boxes: []
+  path: ./rgb/train/2017-02-03-11-44-56_los_altos_mountain_view_traffic_lights_bag/207384.png
+- boxes:
+  - {label: Yellow, occluded: true, x_max: 615.75, x_min: 610.625, y_max: 358.625,
+    y_min: 351.5}
+  - {label: Yellow, occluded: false, x_max: 638.125, x_min: 633.875, y_max: 351.0,
+    y_min: 342.25}
+  - {label: Yellow, occluded: false, x_max: 655.0, x_min: 649.5, y_max: 360.75, y_min: 350.375}
+  path: ./rgb/train/2017-02-03-11-44-56_los_altos_mountain_view_traffic_lights_bag/207386.png
