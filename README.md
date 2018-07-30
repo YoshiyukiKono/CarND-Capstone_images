@@ -1,5 +1,6 @@
 
-`yq -y "." Sloth-json-format-sample.json
+```bash
+yq -y "." Sloth-json-format-sample.json
 - annotations:
   - class: rect
     height: 60
@@ -15,4 +16,4 @@
   filename: image1.jpg
 - class: image
   filename: image2.jpg
-`
+```
