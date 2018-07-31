@@ -1,0 +1,2912 @@
+- annotations:
+  - class: red
+    height: 123
+    width: 56
+    x: 127
+    y: 257
+  - class: red
+    height: 124
+    width: 56
+    x: 375
+    y: 261
+  - class: red
+    height: 125
+    width: 56
+    x: 626
+    y: 265
+  class: image
+  filename: IMG_20180728_174155_0.png
+- annotations:
+  - class: red
+    height: 128
+    width: 56
+    x: 124
+    y: 251
+  - class: red
+    height: 123
+    width: 55
+    x: 377
+    y: 259
+  - class: red
+    height: 129
+    width: 55
+    x: 629
+    y: 257
+  class: image
+  filename: IMG_20180728_174155_4.png
+- annotations:
+  - class: red
+    height: 134
+    width: 59
+    x: 114
+    y: 235
+  - class: red
+    height: 130
+    width: 58
+    x: 376
+    y: 242
+  - class: red
+    height: 130
+    width: 60
+    x: 641
+    y: 244
+  class: image
+  filename: IMG_20180728_174156_4.png
+- annotations:
+  - class: red
+    height: 140
+    width: 61
+    x: 97
+    y: 209
+  - class: red
+    height: 141
+    width: 60
+    x: 379
+    y: 214
+  - class: red
+    height: 142
+    width: 62
+    x: 662
+    y: 216
+  class: image
+  filename: IMG_20180728_174157_4.png
+- annotations:
+  - class: red
+    height: 157
+    width: 64
+    x: 73
+    y: 163
+  - class: red
+    height: 153
+    width: 70
+    x: 379
+    y: 171
+  - class: red
+    height: 153
+    width: 69
+    x: 693
+    y: 173
+  class: image
+  filename: IMG_20180728_174158_4.png
+- annotations:
+  - class: red
+    height: 174
+    width: 76
+    x: 30
+    y: 98
+  - class: red
+    height: 173
+    width: 77
+    x: 383
+    y: 104
+  - class: red
+    height: 174
+    width: 58
+    x: 741
+    y: 109
+  class: image
+  filename: IMG_20180728_174159_4.png
+- annotations:
+  - class: red
+    height: 192
+    width: 85
+    x: -2
+    y: 46
+  - class: red
+    height: 192
+    width: 87
+    x: 383
+    y: 51
+  class: image
+  filename: IMG_20180728_174200_4.png
+- annotations:
+  - class: red
+    height: 192
+    width: 80
+    x: 2
+    y: 47
+  - class: red
+    height: 191
+    width: 82
+    x: 386
+    y: 52
+  class: image
+  filename: IMG_20180728_174201_4.png
+- annotations:
+  - class: red
+    height: 193
+    width: 80
+    x: 388
+    y: 51
+  - class: red
+    height: 187
+    width: 81
+    x: -2
+    y: 52
+  class: image
+  filename: IMG_20180728_174202_4.png
+- annotations:
+  - class: red
+    height: 193
+    width: 86
+    x: -2
+    y: 46
+  - class: red
+    height: 195
+    width: 82
+    x: 387
+    y: 50
+  class: image
+  filename: IMG_20180728_174203_4.png
+- annotations:
+  - class: red
+    height: 190
+    width: 83
+    x: -4
+    y: 49
+  - class: red
+    height: 190
+    width: 82
+    x: 389
+    y: 53
+  class: image
+  filename: IMG_20180728_174204_4.png
+- annotations:
+  - class: red
+    height: 188
+    width: 89
+    x: -6
+    y: 51
+  - class: red
+    height: 192
+    width: 80
+    x: 387
+    y: 51
+  class: image
+  filename: IMG_20180728_174205_4.png
+- annotations:
+  - class: red
+    height: 189
+    width: 80
+    x: 1
+    y: 49
+  - class: red
+    height: 187
+    width: 78
+    x: 388
+    y: 55
+  class: image
+  filename: IMG_20180728_174206_4.png
+- annotations:
+  - class: red
+    height: 185
+    width: 83
+    x: -1
+    y: 51
+  - class: red
+    height: 195
+    width: 80
+    x: 387
+    y: 50
+  class: image
+  filename: IMG_20180728_174207_4.png
+- annotations:
+  - class: red
+    height: 191
+    width: 80
+    x: 1
+    y: 46
+  - class: red
+    height: 194
+    width: 80
+    x: 388
+    y: 51
+  class: image
+  filename: IMG_20180728_174208_4.png
+- annotations:
+  - class: red
+    height: 188
+    width: 81
+    x: 2
+    y: 46
+  - class: red
+    height: 195
+    width: 84
+    x: 386
+    y: 50
+  class: image
+  filename: IMG_20180728_174209_4.png
+- annotations:
+  - class: red
+    height: 188
+    width: 77
+    x: 3
+    y: 50
+  - class: red
+    height: 197
+    width: 78
+    x: 388
+    y: 48
+  class: image
+  filename: IMG_20180728_174210_4.png
+- annotations:
+  - class: red
+    height: 183
+    width: 83
+    x: -4
+    y: 51
+  - class: red
+    height: 193
+    width: 82
+    x: 386
+    y: 50
+  class: image
+  filename: IMG_20180728_174211_4.png
+- annotations:
+  - class: green
+    height: 189
+    width: 87
+    x: -2
+    y: 48
+  - class: green
+    height: 192
+    width: 82
+    x: 387
+    y: 50
+  class: image
+  filename: IMG_20180728_174212_2.png
+- annotations:
+  - class: green
+    height: 189
+    width: 82
+    x: -1
+    y: 47
+  - class: green
+    height: 192
+    width: 80
+    x: 387
+    y: 49
+  class: image
+  filename: IMG_20180728_174212_4.png
+- annotations:
+  - class: green
+    height: 193
+    width: 82
+    x: -4
+    y: 39
+  - class: green
+    height: 194
+    width: 83
+    x: 386
+    y: 42
+  class: image
+  filename: IMG_20180728_174213_2.png
+- annotations:
+  - class: green
+    height: 207
+    width: 64
+    x: -3
+    y: 15
+  - class: green
+    height: 204
+    width: 90
+    x: 387
+    y: 21
+  class: image
+  filename: IMG_20180728_174214_2.png
+- annotations:
+  - class: green
+    height: 175
+    width: 95
+    x: 390
+    y: -2
+  class: image
+  filename: IMG_20180728_174215_2.png
+- annotations:
+  - class: green
+    height: 90
+    width: 118
+    x: 388
+    y: 5
+  class: image
+  filename: IMG_20180728_174216_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174217_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174218_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174219_2.png
+- annotations:
+  - class: green
+    height: 11.733013320289615
+    width: 5.23472901982143
+    x: 627.174688943785
+    y: 579.4303501250682
+  - class: green
+    height: 11.823267268907102
+    width: 6.2275224546152685
+    x: 651.5432550705401
+    y: 579.0693343305978
+  - class: green
+    height: 10.83047383411349
+    width: 4.963967173968626
+    x: 676.4533448890011
+    y: 581.1451751488029
+  class: image
+  filename: IMG_20180728_174220_2.png
+- annotations:
+  - class: green
+    height: 11.462251474436698
+    width: 5.415236917056745
+    x: 608.6726294771745
+    y: 588.1849831409767
+  - class: green
+    height: 11.371997525819097
+    width: 5.234729019821543
+    x: 633.4022113984001
+    y: 588.4557449868295
+  - class: green
+    height: 10.830473834113377
+    width: 5.144475071203942
+    x: 658.2220472682434
+    y: 589.5387923702408
+  class: image
+  filename: IMG_20180728_174221_2.png
+- annotations:
+  - class: green
+    height: 10.19869619379017
+    width: 4.963967173968626
+    x: 657.861031473773
+    y: 589.4485384216232
+  - class: green
+    height: 11.101235679966294
+    width: 4.151681636410217
+    x: 632.6801798094592
+    y: 588.7265068326823
+  - class: green
+    height: 12.725806755083227
+    width: 5.23472901982143
+    x: 606.5967886589694
+    y: 587.3726976034181
+  class: image
+  filename: IMG_20180728_174222_2.png
+- annotations:
+  - class: green
+    height: 12.816060703700828
+    width: 5.6859987629095485
+    x: 606.1455189158813
+    y: 571.126986852248
+  - class: green
+    height: 12.18428306337762
+    width: 5.6859987629095485
+    x: 632.5899258608416
+    y: 572.4807960815122
+  - class: green
+    height: 12.635552806465626
+    width: 5.776252711527263
+    x: 658.312301216861
+    y: 572.4807960815122
+  class: image
+  filename: IMG_20180728_174223_2.png
+- annotations:
+  - class: green
+    height: 12.09402911476002
+    width: 4.69320532811571
+    x: 607.1383123506752
+    y: 585.5676186310659
+  - class: green
+    height: 12.364790960612822
+    width: 5.23472901982143
+    x: 632.7704337580769
+    y: 585.6578725796835
+  - class: green
+    height: 11.5525054230543
+    width: 4.873713225351025
+    x: 659.48560254889
+    y: 586.8311739117124
+  class: image
+  filename: IMG_20180728_174224_2.png
+- annotations:
+  - class: green
+    height: 13.610669509511581
+    width: 4.929848798720741
+    x: 611.8371041716682
+    y: 577.328162580623
+  - class: green
+    height: 12.217451370742765
+    width: 5.465701929016404
+    x: 638.6297606864549
+    y: 578.828551345451
+  - class: green
+    height: 12.217451370742651
+    width: 6.323066937489671
+    x: 664.9937346970049
+    y: 579.3644044757468
+  class: image
+  filename: IMG_20180728_174225_2.png
+- annotations:
+  - class: green
+    height: 13.181987005275005
+    width: 5.25136067689823
+    x: 644.8456569978854
+    y: 581.2934757448114
+  - class: green
+    height: 12.753304501038428
+    width: 5.894384433253094
+    x: 671.9598253908495
+    y: 581.9364995011663
+  - class: green
+    height: 11.574427614387787
+    width: 4.929848798720741
+    x: 699.8241881662276
+    y: 584.0799120223493
+  class: image
+  filename: IMG_20180728_174226_2.png
+- annotations:
+  - class: yellow
+    height: 13.909379126825456
+    width: 5.548550143487773
+    x: 698.0532125724843
+    y: 584.1939233266675
+  - class: yellow
+    height: 14.213409271674095
+    width: 5.928587824548458
+    x: 669.5503864929241
+    y: 582.7497801386364
+  - class: yellow
+    height: 13.605348981976817
+    width: 5.700565215912093
+    x: 641.4275980944245
+    y: 583.1298178196972
+  class: image
+  filename: IMG_20180728_174227_1.png
+- annotations:
+  - class: green
+    height: 13.301318837128179
+    width: 6.3086255056093705
+    x: 646.6721180930637
+    y: 582.4457499937878
+  - class: green
+    height: 12.541243475006581
+    width: 5.320527534851294
+    x: 674.8709140277753
+    y: 583.3578404283337
+  - class: green
+    height: 13.225311300916019
+    width: 6.232617969397097
+    x: 702.7656798176383
+    y: 583.509855500758
+  class: image
+  filename: IMG_20180728_174227_2.png
+- annotations:
+  - class: yellow
+    height: 12.84527361985522
+    width: 4.864482317578222
+    x: 670.5384844636822
+    y: 583.5858630369702
+  - class: yellow
+    height: 14.745462025159213
+    width: 4.9404898537904955
+    x: 641.4275980944245
+    y: 581.4576520230297
+  - class: yellow
+    height: 13.757364054401137
+    width: 6.46064057803369
+    x: 612.316711725167
+    y: 581.6856746316662
+  class: image
+  filename: IMG_20180728_174228_1.png
+- annotations:
+  - class: yellow
+    height: 13.909379126825456
+    width: 6.764670722882329
+    x: 578.1893279659068
+    y: 580.5455615884838
+  - class: yellow
+    height: 13.681356518188977
+    width: 5.320527534851294
+    x: 608.7443575231954
+    y: 581.0776143419689
+  - class: yellow
+    height: 14.061394199249776
+    width: 6.232617969397211
+    x: 637.5512137476044
+    y: 581.0776143419689
+  class: image
+  filename: IMG_20180728_174229_1.png
+- annotations:
+  - class: yellow
+    height: 13.225311300916019
+    width: 6.004595360760618
+    x: 603.5758450607685
+    y: 580.4695540522716
+  - class: yellow
+    height: 12.921281156067266
+    width: 5.700565215912093
+    x: 573.3248456483285
+    y: 579.70947869015
+  - class: yellow
+    height: 13.833371590613183
+    width: 5.244519998639021
+    x: 543.3018688445251
+    y: 578.4933581107555
+  class: image
+  filename: IMG_20180728_174230_1.png
+- annotations:
+  - class: red
+    height: 15.539740778576288
+    width: 6.001555059312182
+    x: 502.52306559133865
+    y: 575.9349444418541
+  - class: red
+    height: 15.646911404635375
+    width: 6.858920067785334
+    x: 533.2810352703137
+    y: 577.1138213285047
+  - class: red
+    height: 15.111058274339712
+    width: 6.537408189607959
+    x: 564.4676874535254
+    y: 577.7568450848596
+  class: image
+  filename: IMG_20180728_174231_0.png
+- annotations:
+  - class: yellow
+    height: 14.82146956137126
+    width: 6.156610433185051
+    x: 521.8677436326957
+    y: 577.5812676762096
+  - class: yellow
+    height: 13.301318837128065
+    width: 6.536648114245736
+    x: 552.6507957986208
+    y: 578.9494033280284
+  - class: yellow
+    height: 13.833371590613297
+    width: 4.864482317578336
+    x: 583.8898931818188
+    y: 579.5574636177257
+  class: image
+  filename: IMG_20180728_174231_1.png
+- annotations:
+  - class: red
+    height: 15.325399526458
+    width: 6.001555059312182
+    x: 478.83835723226724
+    y: 575.18475005944
+  - class: red
+    height: 14.146522639807358
+    width: 7.287602572022024
+    x: 509.91783878941976
+    y: 576.4707975721499
+  - class: red
+    height: 15.218228900398799
+    width: 7.073261319903622
+    x: 541.8546853550455
+    y: 576.2564563200316
+  class: image
+  filename: IMG_20180728_174232_0.png
+- annotations:
+  - class: red
+    height: 14.896717022221424
+    width: 8.037796954435976
+    x: 469.19300088694405
+    y: 572.8269962861389
+  - class: red
+    height: 14.896717022221424
+    width: 7.180431945962823
+    x: 501.8800418349838
+    y: 574.3273850509669
+  - class: red
+    height: 15.111058274339712
+    width: 6.323066937489671
+    x: 535.7459596696741
+    y: 575.3990913115583
+  class: image
+  filename: IMG_20180728_174233_0.png
+- annotations:
+  - class: red
+    height: 16.182764534931152
+    width: 7.394773198081111
+    x: 461.6910570628038
+    y: 571.2194368952516
+  - class: red
+    height: 16.289935160990353
+    width: 7.287602572021967
+    x: 495.7713161496124
+    y: 572.0768019037248
+  - class: red
+    height: 16.932958917345218
+    width: 5.7872138071938934
+    x: 529.5300633582436
+    y: 572.5054844079614
+  class: image
+  filename: IMG_20180728_174234_0.png
+- annotations:
+  - class: red
+    height: 16.28993516099024
+    width: 7.073261319903679
+    x: 453.9747719865452
+    y: 569.9333893825419
+  - class: red
+    height: 16.71861766522693
+    width: 6.644578815667103
+    x: 489.1267373339453
+    y: 570.4692425128376
+  - class: red
+    height: 16.932958917345104
+    width: 7.28760257202191
+    x: 523.957190803168
+    y: 571.3266075213108
+  class: image
+  filename: IMG_20180728_174235_0.png
+- annotations:
+  - class: red
+    height: 16.932958917345218
+    width: 7.7162850762585435
+    x: 445.50829252787264
+    y: 567.7899768613589
+  - class: red
+    height: 18.219006430054947
+    width: 7.287602572021967
+    x: 481.7319641358642
+    y: 568.2186593655955
+  - class: red
+    height: 17.36164142158168
+    width: 7.180431945962823
+    x: 518.5986595002106
+    y: 569.0760243740688
+  class: image
+  filename: IMG_20180728_174236_0.png
+- annotations:
+  - class: red
+    height: 18.32579992268097
+    width: 8.111419637907943
+    x: 354.79950342108566
+    y: 563.2930304102757
+  - class: red
+    height: 18.626222872233143
+    width: 6.9097278396993715
+    x: 392.6527950646562
+    y: 564.7951451580365
+  - class: red
+    height: 18.0253769731288
+    width: 6.9097278396993715
+    x: 430.2056637586746
+    y: 566.5976828553494
+  class: image
+  filename: IMG_20180728_174237_0.png
+- annotations:
+  - class: red
+    height: 18.9266458217852
+    width: 8.411842587460114
+    x: 296.51745120796915
+    y: 560.8896468138586
+  - class: red
+    height: 20.428760569545943
+    width: 8.411842587460114
+    x: 335.2720117001961
+    y: 560.8896468138586
+  - class: red
+    height: 20.428760569546057
+    width: 9.0126884865644
+    x: 374.3269951419752
+    y: 561.4904927129628
+  class: image
+  filename: IMG_20180728_174238_0.png
+- annotations:
+  - class: red
+    height: 20.428760569545943
+    width: 9.0126884865644
+    x: 284.2001102763311
+    y: 558.1858402678893
+  - class: red
+    height: 19.827914670441714
+    width: 8.111419637908
+    x: 324.4567855163188
+    y: 559.3875320660978
+  - class: red
+    height: 18.32579992268097
+    width: 7.810996688355829
+    x: 365.3143066554108
+    y: 560.8896468138586
+  class: image
+  filename: IMG_20180728_174239_0.png
+- annotations:
+  - class: red
+    height: 19.227068771337372
+    width: 8.712265537012286
+    x: 295.3157594097605
+    y: 556.0828796210242
+  - class: red
+    height: 22.23129826685897
+    width: 9.313111436116571
+    x: 337.37497234706115
+    y: 556.9841484696806
+  - class: red
+    height: 19.8279146704416
+    width: 10.214380284772972
+    x: 378.83333938525743
+    y: 558.1858402678893
+  class: image
+  filename: IMG_20180728_174240_0.png
+- annotations:
+  - class: red
+    height: 21.63045236775463
+    width: 8.111419637908
+    x: 312.4398675342329
+    y: 553.3790730750549
+  - class: red
+    height: 18.62622287223303
+    width: 10.214380284772972
+    x: 355.09992637063783
+    y: 555.1816107723678
+  - class: red
+    height: 21.63045236775463
+    width: 8.411842587460114
+    x: 398.96167700525126
+    y: 554.8811878228156
+  class: image
+  filename: IMG_20180728_174241_0.png
+- annotations:
+  - class: red
+    height: 22.8321441659632
+    width: 10.514803234325143
+    x: 327.7614379613924
+    y: 550.3748435795334
+  - class: red
+    height: 21.63045236775463
+    width: 8.411842587460114
+    x: 375.22826399063166
+    y: 551.8769583272941
+  - class: red
+    height: 19.227068771337372
+    width: 9.0126884865644
+    x: 419.39043757479726
+    y: 554.8811878228156
+  class: image
+  filename: IMG_20180728_174242_0.png
+- annotations:
+  - class: red
+    height: 23.68470835907135
+    width: 9.752526971382338
+    x: 442.829026876394
+    y: 549.9996529355407
+  - class: red
+    height: 21.9308753173068
+    width: 12.317340931638
+    x: 393.8544868628648
+    y: 548.8727288317726
+  - class: red
+    height: 24.03383596417177
+    width: 10.214380284773029
+    x: 346.98850673272983
+    y: 547.0701911344597
+  class: image
+  filename: IMG_20180728_174243_0.png
+- annotations:
+  - class: red
+    height: 24.434902741485416
+    width: 10.288380101678058
+    x: 466.5137352354654
+    y: 546.7845341537662
+  - class: red
+    height: 24.03383596417177
+    width: 11.4160720829816
+    x: 364.41303780675435
+    y: 544.6668075380426
+  - class: red
+    height: 24.935104812828286
+    width: 12.317340931638057
+    x: 413.0815556342022
+    y: 545.8684993362511
+  class: image
+  filename: IMG_20180728_174244_0.png
+- annotations:
+  - class: red
+    height: 24.542073367544617
+    width: 10.18120947561897
+    x: 470.15753652147635
+    y: 543.7837566241101
+  - class: red
+    height: 27.33848840924543
+    width: 11.115649133429429
+    x: 363.2113460085458
+    y: 539.259194446104
+  - class: red
+    height: 25.235527762380343
+    width: 10.214380284773029
+    x: 415.7853621801715
+    y: 541.6625780425211
+  class: image
+  filename: IMG_20180728_174245_0.png
+- annotations:
+  - class: red
+    height: 28.33776758186923
+    width: 11.931691613418593
+    x: 258.0228311401776
+    y: 533.0909360138103
+  - class: red
+    height: 29.403097190210133
+    width: 11.29249384841404
+    x: 315.76369591225694
+    y: 533.5170678571467
+  - class: red
+    height: 26.633240208523603
+    width: 14.062350830100513
+    x: 370.3085718593134
+    y: 536.9261226038377
+  class: image
+  filename: IMG_20180728_174246_0.png
+- annotations:
+  - class: red
+    height: 28.763899425205523
+    width: 13.210087143427756
+    x: 204.96941664479834
+    y: 526.2728265204282
+  - class: red
+    height: 27.911635738532823
+    width: 11.71862569175039
+    x: 265.6932043202324
+    y: 529.0426835021146
+  - class: red
+    height: 28.976965346873726
+    width: 11.718625691750447
+    x: 325.99086015233
+    y: 530.1080131104557
+  class: image
+  filename: IMG_20180728_174247_0.png
+- annotations:
+  - class: red
+    height: 31.533756406892053
+    width: 13.636218986764135
+    x: 193.4638568747161
+    y: 520.3069807137189
+  - class: red
+    height: 28.550833503537433
+    width: 13.636218986764106
+    x: 257.1705674535048
+    y: 523.2899036170735
+  - class: red
+    height: 29.403097190210133
+    width: 11.29249384841404
+    x: 322.581805405639
+    y: 524.7813650687509
+  class: image
+  filename: IMG_20180728_174248_0.png
+- annotations:
+  - class: red
+    height: 34.30361338857858
+    width: 15.553812281777851
+    x: 194.31612056138886
+    y: 514.5542008286777
+  - class: red
+    height: 32.81215193690127
+    width: 14.062350830100513
+    x: 263.56254510355046
+    y: 516.4717941236914
+  - class: red
+    height: 31.746822328560256
+    width: 13.42315306509596
+    x: 332.80896964571207
+    y: 518.3893874187052
+  class: image
+  filename: IMG_20180728_174249_0.png
+- annotations:
+  - class: red
+    height: 35.582008918587576
+    width: 16.832207811786986
+    x: 195.8075820130662
+    y: 506.88382764862297
+  - class: red
+    height: 36.434272605260446
+    width: 17.045273733455133
+    x: 269.95452275359617
+    y: 507.5230254136275
+  - class: red
+    height: 34.51667931024673
+    width: 15.97994412511423
+    x: 344.3145294157943
+    y: 511.14514608198675
+  class: image
+  filename: IMG_20180728_174250_0.png
+- annotations:
+  - class: green
+    height: 39.956252290435486
+    width: 16.82368517492023
+    x: 197.3778778557606
+    y: 497.1999815088034
+  - class: green
+    height: 37.5528686940184
+    width: 17.124108124472343
+    x: 276.9899594870796
+    y: 500.80505690342915
+  - class: green
+    height: 35.750330996705486
+    width: 14.420301578503086
+    x: 357.503309967055
+    y: 503.50886344939846
+  class: image
+  filename: IMG_20180728_174251_2.png
+- annotations:
+  - class: green
+    height: 44.76301948326994
+    width: 17.424531074024543
+    x: 197.3778778557606
+    y: 485.1830635267175
+  - class: green
+    height: 41.75878998774846
+    width: 18.926645821785257
+    x: 284.2001102763311
+    y: 489.0885618708954
+  - class: green
+    height: 39.355406391331314
+    width: 17.424531074024515
+    x: 373.7261492428709
+    y: 491.7923684168647
+  class: image
+  filename: IMG_20180728_174252_2.png
+- annotations:
+  - class: green
+    height: 47.46682602923926
+    width: 19.2270687713374
+    x: 196.17618605755203
+    y: 472.26487669597515
+  - class: green
+    height: 45.96471128147846
+    width: 20.12833761999383
+    x: 291.41026106558263
+    y: 475.8699520906009
+  - class: green
+    height: 43.561327685061315
+    width: 19.827914670441714
+    x: 387.24518197271755
+    y: 478.8741815861224
+  class: image
+  filename: IMG_20180728_174253_2.png
+- annotations:
+  - class: green
+    height: 53.17486207073006
+    width: 21.63045236775457
+    x: 191.97026476382197
+    y: 456.6428833192635
+  - class: green
+    height: 51.07190142386503
+    width: 21.029606468650286
+    x: 299.52168070349063
+    y: 460.84880461299355
+  - class: green
+    height: 48.36809487789566
+    width: 21.930875317306743
+    x: 404.66971304674206
+    y: 464.1534570580672
+  class: image
+  filename: IMG_20180728_174254_2.png
+- annotations:
+  - class: green
+    height: 58.282052213116515
+    width: 25.235527762380343
+    x: 176.64869433666246
+    y: 435.9136998001654
+  - class: green
+    height: 57.08036041490794
+    width: 25.235527762380343
+    x: 296.51745120796915
+    y: 441.6217358416562
+  - class: green
+    height: 57.68120631401223
+    width: 27.038065459693257
+    x: 415.1845162810672
+    y: 444.0251194380733
+  class: image
+  filename: IMG_20180728_174255_2.png
+- annotations:
+  - class: green
+    height: 65.19178005281589
+    width: 31.8448326525276
+    x: 154.11697312025143
+    y: 413.38197858375435
+  - class: green
+    height: 65.19178005281594
+    width: 28.840603157006115
+    x: 295.6161823593127
+    y: 417.8883228270365
+  - class: green
+    height: 66.9943177501288
+    width: 26.737642510141086
+    x: 432.3086244055396
+    y: 419.09001462524515
+  class: image
+  filename: IMG_20180728_174256_2.png
+- annotations:
+  - class: green
+    height: 75.10573738803674
+    width: 32.44567855163186
+    x: 140.59794039040483
+    y: 384.24095247719606
+  - class: green
+    height: 80.21292753042326
+    width: 33.04652445073617
+    x: 303.4271790476685
+    y: 386.64433607361326
+  - class: green
+    height: 78.4103898331104
+    width: 31.8448326525276
+    x: 463.25218820941075
+    y: 389.94898851868686
+  class: image
+  filename: IMG_20180728_174257_2.png
+- annotations:
+  - class: green
+    height: 81.715042278184
+    width: 38.754560492226986
+    x: 116.2636814766809
+    y: 357.80373291660715
+  - class: green
+    height: 84.71927177370549
+    width: 38.4541375426748
+    x: 307.6331003413986
+    y: 358.10415586615926
+  - class: green
+    height: 91.32857666385269
+    width: 41.458367038196286
+    x: 494.7965979123862
+    y: 357.503309967055
+  class: image
+  filename: IMG_20180728_174258_2.png
+- annotations:
+  - class: green
+    height: 121.98581560283696
+    width: 48.22695035460997
+    x: 70.92198581560291
+    y: 260.9929078014187
+  - class: green
+    height: 116.31205673758876
+    width: 47.517730496453964
+    x: 319.14893617021306
+    y: 273.7588652482272
+  - class: green
+    height: 113.47517730496463
+    width: 48.936170212766
+    x: 558.1560283687949
+    y: 279.43262411347547
+  class: image
+  filename: IMG_20180728_174259_2.png
+- annotations:
+  - class: green
+    height: 157.44680851063845
+    width: 65.95744680851071
+    x: -2.836879432624123
+    y: 138.29787234042567
+  - class: green
+    height: 158.15602836879447
+    width: 65.2482269503547
+    x: 323.40425531914923
+    y: 145.39007092198597
+  - class: green
+    height: 162.41134751773066
+    width: 69.50354609929082
+    x: 641.1347517730503
+    y: 151.0638297872342
+  class: image
+  filename: IMG_20180728_174300_2.png
+- annotations:
+  - class: green
+    height: 143.00000000000017
+    width: 103.00000000000011
+    x: 322.00000000000034
+    y: 0
+  class: image
+  filename: IMG_20180728_174301_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174302_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174303_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174304_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174305_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174306_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174307_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174308_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174309_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174310_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174311_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174312_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174313_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174314_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174315_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174316_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174317_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174318_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174319_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174320_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174321_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174322_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174323_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174324_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174325_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174326_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174327_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174328_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174329_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174329_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174330_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174331_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174332_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174333_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174334_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174335_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174336_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174337_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174338_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174339_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174340_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174341_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174342_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174343_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174344_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174344_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174345_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174346_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174347_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174348_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174348_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174349_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174350_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174351_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174352_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174353_0.png
+- annotations:
+  - class: red
+    height: 19.061836149083774
+    width: 8.895523536239073
+    x: 1.6943854354741088
+    y: 554.9112301177707
+  class: image
+  filename: IMG_20180728_174354_0.png
+- annotations:
+  - class: red
+    height: 16.94385435474112
+    width: 8.048330818502018
+    x: 13.131487124924346
+    y: 555.3348264766393
+  class: image
+  filename: IMG_20180728_174355_0.png
+- annotations:
+  - class: red
+    height: 19.2281340714336
+    width: 7.590052922934312
+    x: 44.02230695301904
+    y: 552.5558527896183
+  - class: red
+    height: 19.98713936372701
+    width: 8.349058215227748
+    x: 2.277015876880295
+    y: 551.543845733227
+  class: image
+  filename: IMG_20180728_174356_0.png
+- annotations:
+  - class: red
+    height: 22.01115347650955
+    width: 8.855061743423363
+    x: 93.3576509520921
+    y: 550.2788369127379
+  - class: red
+    height: 21.25214818421614
+    width: 7.843054687032129
+    x: 51.35935811185554
+    y: 549.2668298563467
+  - class: red
+    height: 22.264155240607238
+    width: 9.6140670357168
+    x: 6.578045866543075
+    y: 547.2428157435643
+  - class: red
+    height: 9.614067035716857
+    width: 4.554031753760591
+    x: 6.578045866543074
+    y: 583.9280715377467
+  - class: red
+    height: 10.879075856205873
+    width: 4.30102998966278
+    x: 26.312183466172296
+    y: 582.9160644813555
+  class: image
+  filename: IMG_20180728_174357_0.png
+- annotations:
+  - class: red
+    height: 22.770158768802958
+    width: 9.867068799814604
+    x: 131.05491380266588
+    y: 547.2428157435643
+  - class: red
+    height: 22.011153476509435
+    width: 9.867068799814604
+    x: 85.76759802915778
+    y: 546.9898139794665
+  - class: red
+    height: 23.529164061096367
+    width: 10.626074092108041
+    x: 40.22728049155188
+    y: 544.9657998666839
+  - class: red
+    height: 9.86706879981466
+    width: 4.554031753760597
+    x: 69.5754851268979
+    y: 584.4340750659424
+  - class: red
+    height: 10.879075856205873
+    width: 3.7950264614671525
+    x: 48.82934047087744
+    y: 582.9160644813555
+  - class: red
+    height: 7.843054687032122
+    width: 2.783019405075919
+    x: 28.8422011071504
+    y: 583.4220680095511
+  class: image
+  filename: IMG_20180728_174358_0.png
+- annotations:
+  - class: red
+    height: 23.02316053290076
+    width: 8.349058215227728
+    x: 165.71615548406592
+    y: 544.9657998666839
+  - class: red
+    height: 23.529164061096367
+    width: 9.867068799814604
+    x: 117.89882206957972
+    y: 543.7007910461949
+  - class: red
+    height: 24.035167589292087
+    width: 10.12007056391242
+    x: 70.58749218328914
+    y: 542.6887839898036
+  - class: red
+    height: 9.867068799814547
+    width: 6.325044102445261
+    x: 65.27445513723512
+    y: 582.4100609531599
+  - class: red
+    height: 11.385079384401479
+    width: 5.060035281956203
+    x: 87.28560861374464
+    y: 581.9040574249643
+  - class: red
+    height: 8.855061743423448
+    width: 5.566038810151838
+    x: 107.52574974156948
+    y: 584.4340750659424
+  class: image
+  filename: IMG_20180728_174359_0.png
+- annotations:
+  - class: red
+    height: 26.312183466172314
+    width: 10.12007056391242
+    x: 115.87480795679724
+    y: 538.8937575283364
+  - class: red
+    height: 25.806179937976708
+    width: 9.6140670357168
+    x: 66.03346042952856
+    y: 538.134752236043
+  - class: red
+    height: 24.54117111748758
+    width: 11.385079384401475
+    x: 14.16809878947739
+    y: 537.3757469437496
+  - class: red
+    height: 11.132077620303676
+    width: 4.55403175376059
+    x: 19.987139363727035
+    y: 581.1450521326708
+  - class: red
+    height: 11.132077620303562
+    width: 5.566038810151831
+    x: 40.7332840197475
+    y: 581.6510556608665
+  - class: red
+    height: 10.62607409210807
+    width: 5.06003528195621
+    x: 62.99743926035483
+    y: 581.1450521326708
+  class: image
+  filename: IMG_20180728_174400_0.png
+- annotations:
+  - class: red
+    height: 26.05918170207451
+    width: 11.132077620303665
+    x: 18.97513230733579
+    y: 533.5807204822825
+  - class: red
+    height: 25.806179937976708
+    width: 10.879075856205858
+    x: 72.105502767876
+    y: 535.0987310668693
+  - class: red
+    height: 26.81818699436792
+    width: 11.638081148499296
+    x: 124.22386617202498
+    y: 536.1107381232606
+  - class: red
+    height: 9.86706879981466
+    width: 5.06003528195621
+    x: 35.16724520959567
+    y: 580.892050368573
+  - class: red
+    height: 10.879075856205873
+    width: 5.313037046054021
+    x: 56.92539692200737
+    y: 580.892050368573
+  - class: red
+    height: 10.12007056391235
+    width: 4.8070335178584
+    x: 79.44255392671252
+    y: 581.6510556608665
+  class: image
+  filename: IMG_20180728_174401_0.png
+- annotations:
+  - class: red
+    height: 27.57719228666133
+    width: 12.14408467669491
+    x: 28.08319581485697
+    y: 528.5206852003263
+  - class: red
+    height: 27.32419052256364
+    width: 11.638081148499282
+    x: 84.50258920866872
+    y: 531.3037046054021
+  - class: red
+    height: 28.33619757895474
+    width: 10.879075856205844
+    x: 140.66898083838268
+    y: 531.8097081335978
+  - class: red
+    height: 9.867068799814547
+    width: 5.0600352819562175
+    x: 102.21271269551546
+    y: 581.9040574249643
+  - class: red
+    height: 9.108063507521138
+    width: 4.8070335178584
+    x: 78.9365503985169
+    y: 581.6510556608665
+  - class: red
+    height: 10.373072328010267
+    width: 5.566038810151831
+    x: 56.67239515790956
+    y: 580.3860468403774
+  class: image
+  filename: IMG_20180728_174402_0.png
+- annotations:
+  - class: red
+    height: 30.107209927639474
+    width: 13.915097025379566
+    x: 180.39025780173893
+    y: 527.508678143935
+  - class: red
+    height: 29.85420816354167
+    width: 13.91509702537958
+    x: 120.42883971055782
+    y: 525.9906675593481
+  - class: red
+    height: 30.360211691737163
+    width: 14.421100553575208
+    x: 59.70841632708329
+    y: 524.2196552106635
+  - class: red
+    height: 12.397086440792691
+    width: 4.048028225564963
+    x: 102.46571445961328
+    y: 580.3860468403774
+  - class: red
+    height: 11.132077620303562
+    width: 6.578045866543064
+    x: 124.22386617202498
+    y: 581.6510556608665
+  - class: red
+    height: 9.867068799814547
+    width: 5.313037046054006
+    x: 148.259033761317
+    y: 582.4100609531599
+  class: image
+  filename: IMG_20180728_174403_0.png
+- annotations:
+  - class: red
+    height: 33.39623286091103
+    width: 13.662095261281777
+    x: 72.105502767876
+    y: 517.8946111082182
+  - class: red
+    height: 11.638081148499282
+    width: 4.8070335178584
+    x: 126.75388381300309
+    y: 580.1330450762796
+  - class: red
+    height: 11.638081148499282
+    width: 5.819040574249641
+    x: 149.52404258180604
+    y: 580.6390486044752
+  - class: red
+    height: 11.132077620303676
+    width: 4.8070335178584
+    x: 173.30620840700024
+    y: 581.1450521326708
+  - class: red
+    height: 34.15523815320444
+    width: 14.168098789477398
+    x: 136.3679508487199
+    y: 518.9066181646094
+  - class: red
+    height: 31.119216984030686
+    width: 12.903089968988326
+    x: 199.36539010907472
+    y: 522.195641097881
+  class: image
+  filename: IMG_20180728_174404_0.png
+- annotations:
+  - class: red
+    height: 34.914243445497846
+    width: 14.927104081770807
+    x: 127.51288910529652
+    y: 513.8465828826533
+  - class: red
+    height: 34.66124168140004
+    width: 13.662095261281763
+    x: 195.82336541170537
+    y: 515.6175952313379
+  - class: red
+    height: 12.397086440792691
+    width: 5.819040574249641
+    x: 128.52489616168776
+    y: 578.8680362557906
+  - class: red
+    height: 10.879075856205873
+    width: 5.313037046054035
+    x: 152.56006375097977
+    y: 579.8800433121818
+  - class: red
+    height: 12.144084676695002
+    width: 5.313037046054035
+    x: 176.84823310436957
+    y: 580.892050368573
+  - class: red
+    height: 31
+    width: 14
+    x: 60
+    y: 512
+  class: image
+  filename: IMG_20180728_174405_0.png
+- annotations:
+  - class: red
+    height: 35.92625050188906
+    width: 16.95111819455329
+    x: 165.71615548406592
+    y: 506.50953172381674
+  - class: red
+    height: 36.17925226598692
+    width: 15.939111138162062
+    x: 93.3576509520921
+    y: 504.48551761103425
+  - class: red
+    height: 35.92625050188906
+    width: 16.19211290225988
+    x: 19.48113583553141
+    y: 503.2205087905452
+  - class: red
+    height: 11.891082912597085
+    width: 5.5660388101518095
+    x: 156.10208844834912
+    y: 579.3740397839862
+  - class: red
+    height: 10.879075856205873
+    width: 5.566038810151838
+    x: 131.30791556676368
+    y: 579.1210380198884
+  - class: red
+    height: 12.397086440792691
+    width: 3.5420246973693423
+    x: 107.7787515056673
+    y: 578.1090309634972
+  class: image
+  filename: IMG_20180728_174406_0.png
+- annotations:
+  - class: red
+    height: 39.721276963356274
+    width: 17.45712172274893
+    x: 45.79331930170371
+    y: 493.8594435189262
+  - class: red
+    height: 40.22728049155194
+    width: 15.180105845868638
+    x: 127.76589086939433
+    y: 495.63045586761086
+  - class: red
+    height: 38.2032663787694
+    width: 16.19211290225988
+    x: 205.69043421151997
+    y: 499.425482329078
+  - class: red
+    height: 11.891082912597085
+    width: 4.8070335178584
+    x: 205.43743244742217
+    y: 578.8680362557906
+  - class: red
+    height: 10.879075856205873
+    width: 5.060035281956203
+    x: 179.37825074534769
+    y: 579.627041548084
+  - class: red
+    height: 12.90308996898841
+    width: 4.554031753760597
+    x: 154.58407786376225
+    y: 577.6030274353014
+  class: image
+  filename: IMG_20180728_174407_0.png
+- annotations:
+  - class: green
+    height: 43.00000000000006
+    width: 20.000000000000014
+    x: 111.00000000000013
+    y: 483.0000000000005
+  - class: green
+    height: 44.19804408434226
+    width: 16.126313382124835
+    x: 199.48846924554445
+    y: 486.7757557937686
+  - class: green
+    height: 42.406231486328295
+    width: 17.91812598013871
+    x: 284.30093221820107
+    y: 489.76211012379173
+  - class: green
+    height: 14.119878628950914
+    width: 6.008458991042971
+    x: 289.0068774691658
+    y: 579.5158696860923
+  - class: green
+    height: 12.016917982085943
+    width: 6.308881940595086
+    x: 263.47092675723326
+    y: 579.2154467365401
+  - class: green
+    height: 14.119878628950914
+    width: 5.107190142386486
+    x: 238.53582194440503
+    y: 578.3141778878837
+  class: image
+  filename: IMG_20180728_174408_2.png
+- annotations:
+  - class: green
+    height: 47.76724897879143
+    width: 21.029606468650343
+    x: 396.8587163583867
+    y: 479.1746045356751
+  - class: green
+    height: 48.668517827447886
+    width: 21.029606468650286
+    x: 302.8263331485646
+    y: 475.5695291410493
+  - class: green
+    height: 49.569786676104286
+    width: 20.128337619993857
+    x: 206.39056634232526
+    y: 472.86572259508
+  - class: green
+    height: 12.016917982085829
+    width: 6.609304890147257
+    x: 350.8940050769081
+    y: 579.8162926356445
+  - class: green
+    height: 14.119878628950914
+    width: 6.9097278396993715
+    x: 376.4299557888407
+    y: 579.5158696860923
+  - class: green
+    height: 13.519032729846572
+    width: 7.810996688355829
+    x: 402.86717534942966
+    y: 581.3184073834052
+  class: image
+  filename: IMG_20180728_174409_2.png
+- annotations:
+  - class: green
+    height: 14.674102317673032
+    width: 5.819040574249698
+    x: 514.6055881749473
+    y: 581.3980538967694
+  - class: green
+    height: 14.674102317673032
+    width: 5.313037046054035
+    x: 487.53439941648156
+    y: 580.8920503685738
+  - class: green
+    height: 13.66209526128182
+    width: 5.313037046054035
+    x: 460.210208893918
+    y: 581.3980538967694
+  - class: green
+    height: 54.39537928102931
+    width: 22.01115347650955
+    x: 304.8671257378621
+    y: 458.1861947811355
+  - class: green
+    height: 53.63637398873584
+    width: 23.529164061096367
+    x: 410.8748648948449
+    y: 462.4872247707983
+  - class: green
+    height: 54.142377516931504
+    width: 22.26415524060735
+    x: 516.8826040518277
+    y: 464.7642406476786
+  class: image
+  filename: IMG_20180728_174410_2.png
+- annotations:
+  - class: green
+    height: 12.317340931638
+    width: 7.210150789251543
+    x: 615.2662006827981
+    y: 584.0222139293747
+  - class: green
+    height: 12.617763881190172
+    width: 5.7080360414908
+    x: 587.9277122735526
+    y: 582.520099181614
+  - class: green
+    height: 12.918186830742343
+    width: 6.308881940595143
+    x: 559.3875320660986
+    y: 582.8205221311662
+  - class: green
+    height: 59.4837440113252
+    width: 26.1367966110368
+    x: 398.9616770052519
+    y: 441.922158791209
+  - class: green
+    height: 60.3850128599816
+    width: 24.935104812828172
+    x: 519.431279775663
+    y: 443.4242735389697
+  - class: green
+    height: 61.286281708638114
+    width: 24.334258913723943
+    x: 638.9996136974177
+    y: 446.42850303449114
+  class: image
+  filename: IMG_20180728_174411_2.png
+- annotations:
+  - class: green
+    height: 14.48848267343692
+    width: 5.539713963372947
+    x: 494.09987234853213
+    y: 579.326241015808
+  - class: green
+    height: 15.34074636010962
+    width: 6.1789117283775
+    x: 464.2706433149856
+    y: 578.6870432508035
+  - class: green
+    height: 15.553812281777937
+    width: 5.539713963372947
+    x: 435.50674388977995
+    y: 577.6217136424625
+  - class: green
+    height: 69.32248336280026
+    width: 30.10720992763953
+    x: 265.1458487745059
+    y: 411.8868719512363
+  - class: green
+    height: 69.8284868909958
+    width: 29.85420816354167
+    x: 403.28481197191076
+    y: 415.9349001768013
+  - class: green
+    height: 68.81647983460459
+    width: 29.85420816354167
+    x: 539.1467592924353
+    y: 420.4889319305619
+  class: image
+  filename: IMG_20180728_174412_2.png
+- annotations:
+  - class: green
+    height: 82.31588817728846
+    width: 35.44990804715343
+    x: 215.70367777844197
+    y: 377.63164758704954
+  - class: green
+    height: 81.11419637907983
+    width: 33.046524450736285
+    x: 377.93207053660166
+    y: 384.2409524771968
+  - class: green
+    height: 79.0112357322148
+    width: 36.050753946257714
+    x: 534.7528502028227
+    y: 389.3481426195833
+  - class: green
+    height: 14.119878628950914
+    width: 5.7080360414908
+    x: 467.45810950314166
+    y: 581.3184073834057
+  - class: green
+    height: 15.021147477607315
+    width: 6.308881940595086
+    x: 436.8149686488226
+    y: 579.5158696860927
+  - class: green
+    height: 15.321570427159486
+    width: 6.308881940595143
+    x: 406.7726736936078
+    y: 578.013754938332
+  class: image
+  filename: IMG_20180728_174413_2.png
+- annotations:
+  - class: green
+    height: 98.81489900368206
+    width: 41.38096853583795
+    x: 190.13841577242795
+    y: 329.62081833719213
+  - class: green
+    height: 98.45816651630412
+    width: 40.667503561082185
+    x: 385.9845513429025
+    y: 337.8256655468842
+  - class: green
+    height: 92.03698174350171
+    width: 41.024236048460125
+    x: 573.9825721910629
+    y: 346.743977731332
+  - class: green
+    height: 16.052961932006156
+    width: 7.491382234936168
+    x: 412.73948789624603
+    y: 578.6200945269758
+  - class: green
+    height: 16.40969441938398
+    width: 7.134649747558285
+    x: 443.4184818107466
+    y: 579.3335595017317
+  - class: green
+    height: 16.40969441938398
+    width: 6.777917260180345
+    x: 474.4542082126251
+    y: 581.4739544259992
+  class: image
+  filename: IMG_20180728_174414_2.png
+- annotations:
+  - class: green
+    height: 123.69013678961022
+    width: 51.67875578196043
+    x: 150.3767073983275
+    y: 264.3241279339616
+  - class: green
+    height: 119.87776955979348
+    width: 52.102352140829
+    x: 395.6389991832053
+    y: 275.33763326454334
+  - class: green
+    height: 114.79461325337115
+    width: 54.22033393517165
+    x: 632.4293637907126
+    y: 288.04552403059915
+  - class: green
+    height: 15.021147477607428
+    width: 7.210150789251543
+    x: 481.5779881320927
+    y: 586.12517457624
+  - class: green
+    height: 15.321570427159486
+    width: 4.506344243282172
+    x: 450.93484727777366
+    y: 585.2239057275837
+  - class: green
+    height: 15.021147477607428
+    width: 4.806767192834343
+    x: 418.7895916756938
+    y: 584.9234827780315
+  class: image
+  filename: IMG_20180728_174415_2.png
+- annotations:
+  - class: green
+    height: 171.00000000000045
+    width: 67.00000000000017
+    x: 84.0000000000002
+    y: 123.0000000000003
+  - class: green
+    height: 159.0000000000004
+    width: 71.00000000000017
+    x: 414.000000000001
+    y: 141.00000000000034
+  - class: green
+    height: 162.0000000000004
+    width: 67.00000000000011
+    x: 731.0000000000018
+    y: 158.0000000000004
+  - class: green
+    height: 18.214643431346758
+    width: 5.50675266529089
+    x: 491.3717762874929
+    y: 573.1258735491189
+  - class: green
+    height: 16.520257995872612
+    width: 7.624734459633544
+    x: 456.63687486027356
+    y: 572.7022771902504
+  - class: green
+    height: 16.520257995872612
+    width: 7.201138100764979
+    x: 424.0199552273969
+    y: 571.8550844725133
+  class: image
+  filename: IMG_20180728_174416_2.png
+- annotations:
+  - class: green
+    height: 138.0000000000004
+    width: 114.00000000000034
+    x: 390.00000000000114
+    y: -4
+  - class: green
+    height: 15.696229444628216
+    width: 7.848114722314108
+    x: 454.83392140684015
+    y: 570.7719798046621
+  - class: green
+    height: 17.83662436889574
+    width: 7.491382234936168
+    x: 420.94433510593836
+    y: 569.3450498551505
+  - class: green
+    height: 18.19335685627368
+    width: 6.777917260180345
+    x: 386.69801631765864
+    y: 567.9181199056388
+  class: image
+  filename: IMG_20180728_174417_2.png
+- annotations:
+  - class: green
+    height: 19.263554318407273
+    width: 8.56157969706993
+    x: 295.3744995489127
+    y: 565.7777249813714
+  - class: green
+    height: 16.409694419384095
+    width: 7.491382234936168
+    x: 332.1179457488378
+    y: 567.5613874182609
+  - class: green
+    height: 17.4798918815178
+    width: 8.91831218444787
+    x: 366.72099702449543
+    y: 568.2748523930168
+  class: image
+  filename: IMG_20180728_174418_2.png
+- annotations:
+  - class: green
+    height: 21.403949242674912
+    width: 6.421184772802462
+    x: 287.5263848265986
+    y: 551.5084254862549
+  - class: green
+    height: 19.263554318407387
+    width: 9.275044671825754
+    x: 323.19963356439
+    y: 553.6488204105224
+  - class: green
+    height: 17.12315939413986
+    width: 8.56157969706993
+    x: 361.3700097138268
+    y: 555.7892153347899
+  class: image
+  filename: IMG_20180728_174419_2.png
+- annotations:
+  - class: green
+    height: 18.906821831029447
+    width: 7.848114722314108
+    x: 278.96480512952866
+    y: 554.3622853852783
+  - class: green
+    height: 18.906821831029447
+    width: 8.918312184447814
+    x: 317.8486462537213
+    y: 555.7892153347899
+  - class: green
+    height: 20.333751780541093
+    width: 7.491382234936168
+    x: 356.0190224031581
+    y: 555.432482847412
+  class: image
+  filename: IMG_20180728_174420_2.png
+- annotations:
+  - class: green
+    height: 21.760681730052738
+    width: 9.631777159203693
+    x: 353.5218949915127
+    y: 545.8007056882083
+  - class: green
+    height: 20.690484267919032
+    width: 7.848114722314108
+    x: 395.25959601472863
+    y: 547.5843681250979
+  - class: green
+    height: 19.620286805785327
+    width: 6.421184772802462
+    x: 435.5703670884329
+    y: 549.0112980746095
+  class: image
+  filename: IMG_20180728_174421_2.png
+- annotations:
+  - class: green
+    height: 20.729183519098115
+    width: 10.214380284773029
+    x: 465.9559947553814
+    y: 554.5807648732651
+  - class: green
+    height: 21.029606468650286
+    width: 10.514803234325143
+    x: 423.29593591897645
+    y: 553.0786501255044
+  - class: green
+    height: 21.029606468650286
+    width: 10.5148032343252
+    x: 381.83756888078
+    y: 552.7782271759522
+  class: image
+  filename: IMG_20180728_174422_2.png
+- annotations:
+  - class: yellow
+    height: 20.493142891922616
+    width: 9.867068799814604
+    x: 405.3088260846925
+    y: 554.8328686664986
+  - class: yellow
+    height: 22.01115347650955
+    width: 7.843054687032122
+    x: 450.5961418582006
+    y: 554.5798669024007
+  - class: yellow
+    height: 20.493142891922616
+    width: 8.349058215227728
+    x: 493.1004382266328
+    y: 556.6038810151832
+  class: image
+  filename: IMG_20180728_174423_1.png
+- annotations:
+  - class: yellow
+    height: 22.26415524060735
+    width: 8.602059979325531
+    x: 329.15529509125156
+    y: 550.0258351486401
+  - class: yellow
+    height: 24.794172881585496
+    width: 9.361065271618997
+    x: 374.9486143929552
+    y: 550.0258351486401
+  - class: yellow
+    height: 23.276162296998564
+    width: 10.120070563912407
+    x: 419.7299266382677
+    y: 552.3028510255205
+  class: image
+  filename: IMG_20180728_174424_1.png
+- annotations:
+  - class: yellow
+    height: 23.276162296998564
+    width: 9.6140670357168
+    x: 300.0600922200033
+    y: 546.230808687173
+  - class: yellow
+    height: 25.806179937976708
+    width: 11.385079384401479
+    x: 347.1184203421961
+    y: 546.4838104512708
+  - class: yellow
+    height: 24.54117111748758
+    width: 10.37307232801021
+    x: 396.45376434126916
+    y: 548.7608263281511
+  class: image
+  filename: IMG_20180728_174425_1.png
+- annotations:
+  - class: yellow
+    height: 25.806179937976708
+    width: 10.120070563912407
+    x: 276.0249246307113
+    y: 541.4237751693146
+  - class: yellow
+    height: 24.794172881585382
+    width: 9.867068799814604
+    x: 327.3842827425669
+    y: 543.1947875179993
+  - class: yellow
+    height: 25.0471746456833
+    width: 11.638081148499282
+    x: 376.9726285057377
+    y: 545.4718033948795
+  class: image
+  filename: IMG_20180728_174426_1.png
+- annotations:
+  - class: red
+    height: 25.149640360142826
+    width: 12.574820180071413
+    x: 250.49041798702285
+    y: 537.1963180926514
+  - class: red
+    height: 27.664604396157074
+    width: 11.568834565665668
+    x: 304.8136411649314
+    y: 539.2082893214629
+  - class: red
+    height: 24.143654745737194
+    width: 9.556863336854235
+    x: 359.13686434284
+    y: 541.2202605502742
+  class: image
+  filename: IMG_20180728_174427_0.png
+- annotations:
+  - class: red
+    height: 28.16759720336006
+    width: 12.071827372868569
+    x: 224.33479201247428
+    y: 532.1663900206228
+  - class: red
+    height: 28.67059001056282
+    width: 12.071827372868597
+    x: 281.1729792263971
+    y: 533.6753684422314
+  - class: red
+    height: 27.664604396157074
+    width: 14.586791408882902
+    x: 337.00518082591424
+    y: 534.6813540566371
+  class: image
+  filename: IMG_20180728_174428_0.png
+- annotations:
+  - class: red
+    height: 30.179568432171436
+    width: 13.077812987274285
+    x: 196.16719480911428
+    y: 524.6214979125799
+  - class: red
+    height: 26.658618781751443
+    width: 13.077812987274285
+    x: 256.52633167345715
+    y: 529.1484331774056
+  - class: red
+    height: 26.15562597454857
+    width: 13.077812987274285
+    x: 317.38846134500284
+    y: 530.6574115990143
+  class: image
+  filename: IMG_20180728_174429_0.png
+- annotations:
+  - class: red
+    height: 33.70051808259143
+    width: 16.095769830491435
+    x: 162.9696695337257
+    y: 517.5795986117399
+  - class: red
+    height: 31.18555404657718
+    width: 15.089784216085718
+    x: 228.35873447009712
+    y: 521.6035410693628
+  - class: red
+    height: 32.694532468185685
+    width: 15.089784216085718
+    x: 293.2448065992657
+    y: 522.1065338765657
+  class: image
+  filename: IMG_20180728_174430_0.png
+- annotations:
+  - class: red
+    height: 37.22146773301148
+    width: 15.089784216085718
+    x: 130.27513706553998
+    y: 509.53171369649425
+  - class: red
+    height: 31.688546853780053
+    width: 14.586791408882874
+    x: 200.19113726673712
+    y: 514.5616417685228
+  - class: red
+    height: 32.694532468185685
+    width: 14.083798601679973
+    x: 269.60414466073144
+    y: 515.5676273829285
+  class: image
+  filename: IMG_20180728_174431_0.png
+- annotations:
+  - class: red
+    height: 39.23343896182291
+    width: 16.095769830491435
+    x: 89.53271968210856
+    y: 499.4718575524371
+  - class: red
+    height: 38.73044615462004
+    width: 14.586791408882874
+    x: 167.4966047985514
+    y: 503.49580001005995
+  - class: red
+    height: 38.22745334741711
+    width: 16.59876263769428
+    x: 240.93355465016856
+    y: 505.0047784316685
+  class: image
+  filename: IMG_20180728_174432_0.png
+- annotations:
+  - class: red
+    height: 45.26935264825721
+    width: 16.09576983049142
+    x: 114.17936723504856
+    y: 489.9149942155828
+  - class: red
+    height: 39.23343896182291
+    width: 17.604748252099995
+    x: 195.16120919470856
+    y: 495.9509079020171
+  - class: red
+    height: 40.239424576228544
+    width: 19.6167194809114
+    x: 276.6460439615714
+    y: 496.95689351642284
+  class: image
+  filename: IMG_20180728_174433_0.png
+- annotations:
+  - class: red
+    height: 44.26336703385141
+    width: 18.61073386650571
+    x: 146.8738997032343
+    y: 482.37010210754
+  - class: red
+    height: 45.77234545545997
+    width: 19.113726673708584
+    x: 236.9096121925457
+    y: 482.8730949147428
+  - class: red
+    height: 42.25139580503998
+    width: 20.622705095317144
+    x: 325.9393390674514
+    y: 486.3940445651628
+  class: image
+  filename: IMG_20180728_174434_0.png
+- annotations:
+  - class: red
+    height: 50.80227352748852
+    width: 20.1197122881143
+    x: 174.03551129218854
+    y: 467.2803178914543
+  - class: red
+    height: 49.29329510587996
+    width: 23.640661938534322
+    x: 272.1191086967457
+    y: 468.78929631306283
+  - class: red
+    height: 50.29928072028571
+    width: 22.131683516925705
+    x: 371.7116845229114
+    y: 472.8132387706857
+  class: image
+  filename: IMG_20180728_174435_0.png
+- annotations:
+  - class: red
+    height: 52.81424475630001
+    width: 20.119712288114286
+    x: 118.20330969267143
+    y: 451.6875408681657
+  - class: red
+    height: 51.80825914189427
+    width: 23.13766913133145
+    x: 227.3527488556914
+    y: 455.71148332578855
+  - class: red
+    height: 53.317237563502886
+    width: 22.131683516925705
+    x: 334.4902167899
+    y: 458.72944016900567
+  class: image
+  filename: IMG_20180728_174436_0.png
+- annotations:
+  - class: red
+    height: 63.880086514762866
+    width: 24.14365474573715
+    x: 93.55666213973142
+    y: 426.5379005080228
+  - class: red
+    height: 61.86811528595143
+    width: 26.658618781751414
+    x: 219.3048639404457
+    y: 428.54987173683423
+  - class: red
+    height: 63.880086514762866
+    width: 27.161611588954315
+    x: 345.05306574115997
+    y: 432.5738141944571
+  class: image
+  filename: IMG_20180728_174437_0.png
+- annotations:
+  - class: red
+    height: 77.46089230923997
+    width: 28.670590010562847
+    x: 111.16141039183142
+    y: 396.3583320758514
+  - class: red
+    height: 69.41300739399429
+    width: 29.676575624968564
+    x: 256.52633167345715
+    y: 405.41220260550284
+  - class: red
+    height: 66.39505055077711
+    width: 28.670590010562876
+    x: 402.39424576228566
+    y: 410.94512348473427
+  class: image
+  filename: IMG_20180728_174438_0.png
+- annotations:
+  - class: red
+    height: 83.61792124064732
+    width: 34.044439362263546
+    x: 176.19490547136397
+    y: 367.3215825928435
+  - class: red
+    height: 88.39608816868434
+    width: 38.225335424295906
+    x: 347.01437314868633
+    y: 372.69702038688513
+  - class: red
+    height: 83.61792124064732
+    width: 36.433522826282115
+    x: 519.6256534240225
+    y: 377.47518731492215
+  class: image
+  filename: IMG_20180728_174439_0.png
+- annotations:
+  - class: red
+    height: 102.13331808679067
+    width: 44.19804408434214
+    x: 173.80582200734548
+    y: 319.53991331247363
+  - class: red
+    height: 106.314214148823
+    width: 45.39258581635141
+    x: 385.23970857298224
+    y: 323.720809374506
+  - class: red
+    height: 98.54969289076291
+    width: 45.39258581635147
+    x: 594.2845116746005
+    y: 335.6662266945985
+  class: image
+  filename: IMG_20180728_174440_0.png
+- annotations:
+  - class: red
+    height: 132.21785160744355
+    width: 55.58202679039027
+    x: 146.5344342655744
+    y: 229.90747445115983
+  - class: red
+    height: 127.16494008104442
+    width: 58.9506344746564
+    x: 410.127985559395
+    y: 238.32899366182502
+  - class: red
+    height: 125.48063623891142
+    width: 59.79278639572283
+    x: 672.0372330110825
+    y: 250.1191205567563
+  class: image
+  filename: IMG_20180728_174441_0.png
+- annotations:
+  - class: red
+    height: 132.21785160744355
+    width: 54.73987486932376
+    x: 147.3765861866409
+    y: 216.4330437140955
+  - class: red
+    height: 128.00709200211097
+    width: 58.10848255358985
+    x: 417.70735284899365
+    y: 229.0653225300933
+  - class: red
+    height: 129.69139584424403
+    width: 57.26633063252336
+    x: 687.1959675902799
+    y: 234.96038597755893
+  class: image
+  filename: IMG_20180728_174441_4.png
+- annotations:
+  - class: red
+    height: 175.16759958183607
+    width: 58.95063447465637
+    x: 0.8421519210665167
+    y: 85.05734402771847
+  - class: red
+    height: 168.4303842133039
+    width: 74.10936905385375
+    x: 348.65089532153905
+    y: 100.21607860691581
+  - class: red
+    height: 176.00975150290256
+    width: 85.0573440277185
+    x: 693.0910310377456
+    y: 111.16405358078057
+  class: image
+  filename: IMG_20180728_174442_4.png
+- annotations:
+  - class: red
+    height: 183.58911879250124
+    width: 72.42506521172066
+    x: 339.38722418980734
+    y: 59.792786395722885
+  - class: red
+    height: 180.22051110823517
+    width: 78.32012865918637
+    x: 712.4605252222755
+    y: 77.47797673811979
+  class: image
+  filename: IMG_20180728_174443_4.png
+- annotations:
+  - class: red
+    height: 191.16848608209995
+    width: 82.53088826451892
+    x: 323.3863376895435
+    y: 39.58114029012641
+  - class: red
+    height: 196.22139760849905
+    width: 89.26810363305106
+    x: 714.1448290644086
+    y: 54.739874869323764
+  class: image
+  filename: IMG_20180728_174444_4.png
+- annotations:
+  - class: red
+    height: 195.3792456874325
+    width: 85.89949594878499
+    x: 325.912793452743
+    y: 39.58114029012641
+  - class: red
+    height: 189.48418223996686
+    width: 80.00443250131934
+    x: 718.3555886697411
+    y: 64.00354600105548
+  class: image
+  filename: IMG_20180728_174445_4.png
+- annotations:
+  - class: green
+    height: 201
+    width: 87
+    x: 323
+    y: 37
+  - class: green
+    height: 195
+    width: 80
+    x: 720
+    y: 59
+  class: image
+  filename: IMG_20180728_174446_2.png
+- annotations:
+  - class: green
+    height: 198
+    width: 87
+    x: 323
+    y: 42
+  - class: green
+    height: 190
+    width: 77
+    x: 722
+    y: 61
+  class: image
+  filename: IMG_20180728_174446_4.png
+- annotations:
+  - class: green
+    height: 197
+    width: 96
+    x: 317
+    y: 30
+  - class: green
+    height: 197
+    width: 69
+    x: 727
+    y: 49
+  class: image
+  filename: IMG_20180728_174447_2.png
+- annotations:
+  - class: green
+    height: 204
+    width: 92
+    x: 315
+    y: 1
+  - class: green
+    height: 213
+    width: 59
+    x: 743
+    y: 12
+  class: image
+  filename: IMG_20180728_174448_2.png
+- annotations:
+  - class: green
+    height: 154
+    width: 108
+    x: 300
+    y: -1
+  class: image
+  filename: IMG_20180728_174449_2.png
+- annotations:
+  - class: green
+    height: 69
+    width: 128
+    x: 279
+    y: 0
+  class: image
+  filename: IMG_20180728_174450_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174451_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174452_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174453_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174454_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174455_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174456_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174457_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174458_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174459_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174500_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174501_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174501_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174502_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174503_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174504_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174505_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174505_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174506_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174507_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174508_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174509_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174510_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174511_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174512_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174513_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174514_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174515_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174516_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174517_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174518_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174519_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174520_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174521_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174522_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174523_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174524_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174525_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174526_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174527_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174528_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174529_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174530_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174531_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174532_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174533_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174534_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174535_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174536_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174537_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174538_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174539_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174540_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174541_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174542_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174543_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174544_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174545_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174546_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174547_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174548_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174549_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174550_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174551_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174552_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174553_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174554_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174555_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174556_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174557_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174558_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174559_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174600_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174601_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174602_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174603_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174603_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174604_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174605_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174606_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174607_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174608_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174609_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174610_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174611_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174612_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174613_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174614_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174615_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174616_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174617_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174618_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174618_2.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174619_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174620_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174621_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174622_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174622_1.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174623_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174624_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174625_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174626_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174627_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174628_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174629_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174630_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174631_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174632_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174633_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174634_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174635_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174636_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174637_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174638_0.png
+- annotations: []
+  class: image
+  filename: IMG_20180728_174639_0.png

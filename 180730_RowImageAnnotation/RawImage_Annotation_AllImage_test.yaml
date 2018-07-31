@@ -1,0 +1,49 @@
+- annotations:
+  - class: red
+    height: 123
+    width: 56
+    x: 127
+    y: 257
+  - class: red
+    height: 124
+    width: 56
+    x: 375
+    y: 261
+  - class: red
+    height: 125
+    width: 56
+    x: 626
+    y: 265
+  class: image
+  filename: IMG_20180728_174155_0.png
+- annotations:
+  - class: green
+    height: 189
+    width: 87
+    x: -2
+    y: 48
+  - class: green
+    height: 192
+    width: 82
+    x: 387
+    y: 50
+  class: image
+  filename: IMG_20180728_174212_2.png
+- annotations:
+  - class: yellow
+    height: 13.909379126825456
+    width: 5.548550143487773
+    x: 698.0532125724843
+    y: 584.1939233266675
+  - class: yellow
+    height: 14.213409271674095
+    width: 5.928587824548458
+    x: 669.5503864929241
+    y: 582.7497801386364
+  - class: yellow
+    height: 13.605348981976817
+    width: 5.700565215912093
+    x: 641.4275980944245
+    y: 583.1298178196972
+  class: image
+  filename: IMG_20180728_174227_1.png
