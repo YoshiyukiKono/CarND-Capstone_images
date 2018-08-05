@@ -1,2 +1,6 @@
 *.tfrecords*
 *.zip
+unused
+others
+18*
+sim-other-tfrecords

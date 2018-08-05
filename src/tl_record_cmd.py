@@ -42,16 +42,38 @@ PATH_TRAIN_DATA_DIR = ""
 #PATH_YAML = "C:/Work_BigData/Bosch_Small_Traffic_Lights_Dataset/dataset_test_rgb/test.yaml" #TODO change the path
 
 #PATH_YAML = "./180730_RowImageAnnotation/RawImage_Annotation_AllImage.yaml"
+# 299 files
 PATH_YAML_TRAIN = "./180730_RowImageAnnotation/RawImage_Annotation_AllImage_train.yaml"
-PATH_YAML_TEST = "./180730_RowImageAnnotation/RawImage_Annotation_AllImage_test.yaml"
+
+# all 715 files /159 annotations
+# train 130 sample
+# test 29 files (10 each for red blue yellow) no "off" samples
+PATH_YAML_TRAIN_REAL = "./real_images/real_data_annotations_train.yaml"
+PATH_YAML_TEST_REAL = "./real_images/real_data_annotations_test.yaml"
+
+# 281 files
+PATH_YAML_TRAIN_OTHER = "./real_images/sim_data_annotations.yaml"
 
 DIR_DATA_WITH_YAML = "./raw_images/"
+DIR_DATA_WITH_YAML_OTHER = "./others/sim_training_data/"
+DIR_DATA_WITH_YAML_REAL = "./real_images/"
 
-WIDTH_TRAIN_DATA = 800 #1280
-HEIGHT_TRAIN_DATA = 600 #720
+#WIDTH_TRAIN_DATA = 800 #1280
+#HEIGHT_TRAIN_DATA = 600 #720
+
+WIDTH_TRAIN_DATA = 1368 #1280
+HEIGHT_TRAIN_DATA = 1096 #720
+
+
 NUM_CLASSES_TRAIN_DATA = 4 #14
 PATH_TF_RECORD_TRAIN = "train_data.tfrecords"
 PATH_TF_RECORD_TEST = "test_data.tfrecords"
+
+PATH_TF_RECORD_TRAIN_OTHER = "train_data_o.tfrecords"
+
+PATH_TF_RECORD_TRAIN_REAL = "train_data_real.tfrecords"
+PATH_TF_RECORD_TEST_REAL = "test_data_real.tfrecords"
+
 """
 DICT_LABEL = { "Green" : 1, "Red" : 2, "GreenLeft" : 3, "GreenRight" : 4,
     "RedLeft" : 5, "RedRight" : 6, "Yellow" : 7, "off" : 8,
@@ -59,7 +81,7 @@ DICT_LABEL = { "Green" : 1, "Red" : 2, "GreenLeft" : 3, "GreenRight" : 4,
     "RedStraightLeft" : 13, "RedStraightRight" : 14 }
 """
 DICT_LABEL = { "green" : 1, "red" : 2, "yellow" : 3, "off" : 4 }
-    
+DICT_LABEL_OTHER = { "Green" : 1, "Red" : 2, "Yellow" : 3, "off" : 4 }
 
 import contextlib2
 from object_detection.dataset_tools import tf_record_creation_util
@@ -70,10 +92,11 @@ class TFRecordCmd(object):
         #TODO load classifier
         #self.append_required_modules()
         #self.load_label_map()
-        self.INPUT_TYPES = [ "Bosch", "Sloth" ]
+        self.INPUT_TYPES = [ "Bosch", "Sloth", "Other" ]
         self.IDX_BOSCH = 0
         self.IDX_SLOTH = 1
-        self.input_type = self.INPUT_TYPES[self.IDX_SLOTH]
+        self.IDX_OTHER = 2
+        self.input_type = self.INPUT_TYPES[self.IDX_OTHER]
         pass
 
     def load_label_map(self):
@@ -83,48 +106,9 @@ class TFRecordCmd(object):
         self.category_index = label_map_util.create_category_index(self.categories)
 
     def create_tf_example_bosch(self, example, filename):
-        #print(filename)
-        filename = filename.encode()
-        with tf.gfile.GFile(filename, 'rb') as fid:
-            encoded_image = fid.read()
-        image = Image.open(filename)
-        (width, height) = image.size
-        image_string = np.array(image).tostring() 
-        image_format = 'png'.encode()
-        xmins = []
-        xmaxs = []
-        ymins = []
-        ymaxs = []
-        classes_text = []
-        classes = []
-        for box in example['boxes']:
-            xmins.append(float(box['x_min']/width))
-            xmaxs.append(float(box['x_max']/width))
-            ymins.append(float(box['y_min']/height))
-            ymaxs.append(float(box['y_max']/height))
-            classes_text.append(box['label'].encode('utf-8'))
-            print("[", box['label'].encode('utf-8'), "]")
-            classes.append(int(DICT_LABEL[box['label']]))
-
-        tf_example = tf.train.Example(features=tf.train.Features(feature={
-            'image/height' : dataset_util.int64_feature(height),
-            'image/width' : dataset_util.int64_feature(width),
-            'image/filename' : dataset_util.bytes_feature(filename),
-            'image/source_id' : dataset_util.bytes_feature(filename),
-            'image/encoded' : dataset_util.bytes_feature(encoded_image),
-            'image/format' : dataset_util.bytes_feature(image_format),
-            'image/object/bbox/xmin' : dataset_util.float_list_feature(xmins),
-            'image/object/bbox/xmax' : dataset_util.float_list_feature(xmaxs),
-            'image/object/bbox/ymin' : dataset_util.float_list_feature(ymins),
-            'image/object/bbox/ymax' : dataset_util.float_list_feature(ymaxs),
-            #'image/object/class/text' : dataset_util.bytes_list_feature(classes_text),
-            'image/object/class/label' : dataset_util.int64_list_feature(classes),
-            #'image': tf.train.Feature(bytes_list=tf.train.BytesList(value=[image_string])),
-        }))
-        return tf_example
-
-
-    def create_tf_example_bosch(self, example, filename):
+        """
+        BOSCH
+        """
         #print(filename)
         filename = filename.encode()
         with tf.gfile.GFile(filename, 'rb') as fid:
@@ -166,6 +150,9 @@ class TFRecordCmd(object):
         return tf_example
 
     def create_tf_example_sloth(self, example, filename):
+        """
+        SLOTH
+        """
         #print(filename)
         filename = filename.encode()
         with tf.gfile.GFile(filename, 'rb') as fid:
@@ -210,6 +197,55 @@ class TFRecordCmd(object):
         }))
         return tf_example
 
+    def create_tf_example_other(self, example, filename):
+        """
+        OTHER
+        """
+        #print(filename)
+        filename = filename.encode()
+        with tf.gfile.GFile(filename, 'rb') as fid:
+            encoded_image = fid.read()
+        image = Image.open(filename)
+        (width, height) = image.size
+        image_string = np.array(image).tostring() 
+        #image_format = 'png'.encode()
+        image_format = 'jpg'.encode()
+        xmins = []
+        xmaxs = []
+        ymins = []
+        ymaxs = []
+        classes_text = []
+        classes = []
+        for box in example['annotations']:
+            box_x = box['xmin']
+            box_y = box['ymin']
+            box_width = box['x_width']
+            box_height = box['y_height']
+            xmins.append(float(box_x/width))
+            xmaxs.append(float((box_x + box_width)/width))
+            ymins.append(float(box_y/height))
+            ymaxs.append(float((box_y + box_height)/height))
+            classes_text.append(box['class'].encode('utf-8'))
+            print("[", box['class'].encode('utf-8'), "]")
+            classes.append(int(DICT_LABEL_OTHER[box['class']]))
+
+        tf_example = tf.train.Example(features=tf.train.Features(feature={
+            'image/height' : dataset_util.int64_feature(height),
+            'image/width' : dataset_util.int64_feature(width),
+            'image/filename' : dataset_util.bytes_feature(filename),
+            'image/source_id' : dataset_util.bytes_feature(filename),
+            'image/encoded' : dataset_util.bytes_feature(encoded_image),
+            'image/format' : dataset_util.bytes_feature(image_format),
+            'image/object/bbox/xmin' : dataset_util.float_list_feature(xmins),
+            'image/object/bbox/xmax' : dataset_util.float_list_feature(xmaxs),
+            'image/object/bbox/ymin' : dataset_util.float_list_feature(ymins),
+            'image/object/bbox/ymax' : dataset_util.float_list_feature(ymaxs),
+            #'image/object/class/text' : dataset_util.bytes_list_feature(classes_text),
+            'image/object/class/label' : dataset_util.int64_list_feature(classes),
+            #'image': tf.train.Feature(bytes_list=tf.train.BytesList(value=[image_string])),
+        }))
+        return tf_example
+
     def write_tf_record_shard(self, path_tf_record, path_yaml, dir_yaml_data, num_shards):
         with contextlib2.ExitStack() as tf_record_close_stack:
             output_tfrecords = tf_record_creation_util.open_sharded_output_tfrecords(
@@ -222,9 +258,9 @@ class TFRecordCmd(object):
                 print("example:", example)
                 
                 key_file = None
-                if (self.input_type == self.INPUT_TYPES[self.IDX_BOSCH]):
+                if self.input_type == self.INPUT_TYPES[self.IDX_BOSCH]:
                     key_file = 'path'
-                elif (self.input_type == self.INPUT_TYPES[self.IDX_SLOTH]):
+                elif self.input_type in (self.INPUT_TYPES[self.IDX_SLOTH], self.INPUT_TYPES[self.IDX_OTHER]):
                     key_file = 'filename'
                 
                 filename = example[key_file]
@@ -242,6 +278,8 @@ class TFRecordCmd(object):
                     tf_example = self.create_tf_example_bosch(example, filename)
                 elif (self.input_type == self.INPUT_TYPES[self.IDX_SLOTH]):
                     tf_example = self.create_tf_example_sloth(example, filename)
+                elif (self.input_type == self.INPUT_TYPES[self.IDX_OTHER]):
+                    tf_example = self.create_tf_example_other(example, filename)
                 #output_shard_index = index % num_shards
                 output_shard_index = count % num_shards
                 output_tfrecords[output_shard_index].write(tf_example.SerializeToString())
@@ -253,9 +291,9 @@ class TFRecordCmd(object):
         features = tf.parse_single_example(serialized_example, features = {
                 #"class_count": tf.FixedLenFeature([], tf.int64),
                 #"image/object/class/label": tf.FixedLenFeature([], tf.int64),
-                "image": tf.FixedLenFeature([], tf.string),
+                #"image": tf.FixedLenFeature([], tf.string),
                 "image/height": tf.FixedLenFeature([], tf.int64),
-                #"image/width": tf.FixedLenFeature([], tf.int64),
+                "image/width": tf.FixedLenFeature([], tf.int64),
                 #"depth": tf.FixedLenFeature([], tf.int64),
                 })
         for feature in features:
@@ -279,8 +317,17 @@ class TFRecordCmd(object):
 
 if __name__ == '__main__':
     tf_record_cmd = TFRecordCmd()
-    if (True):
+    if (False):
         tf_record_cmd.write_tf_record_shard(PATH_TF_RECORD_TRAIN, PATH_YAML_TRAIN, DIR_DATA_WITH_YAML, NUM_SHARDS)
+    if (False):
         tf_record_cmd.write_tf_record_shard(PATH_TF_RECORD_TEST, PATH_YAML_TEST, DIR_DATA_WITH_YAML, NUM_SHARDS)
+
+    if (False):
+        tf_record_cmd.write_tf_record_shard(PATH_TF_RECORD_TRAIN_OTHER, PATH_YAML_TRAIN_OTHER, DIR_DATA_WITH_YAML_OTHER, NUM_SHARDS)
+
+    if (False):
+        tf_record_cmd.confirm_tf_record("train_data_o.tfrecords-00000-of-00010") #train(PATH_TF_RECORD, PATH_TRAINED_GRAPH)
+
     if (True):
-        tf_record_cmd.confirm_tf_record(PATH_TF_RECORD_TEST) #train(PATH_TF_RECORD, PATH_TRAINED_GRAPH)
+        tf_record_cmd.write_tf_record_shard(PATH_TF_RECORD_TRAIN_REAL, PATH_YAML_TRAIN_REAL, DIR_DATA_WITH_YAML_REAL, NUM_SHARDS)
+        tf_record_cmd.write_tf_record_shard(PATH_TF_RECORD_TEST_REAL, PATH_YAML_TEST_REAL, DIR_DATA_WITH_YAML_REAL, NUM_SHARDS)

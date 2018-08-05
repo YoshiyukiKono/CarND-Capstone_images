@@ -1,0 +1,2 @@
+Sources:
+https://drive.google.com/uc?id=0B-Eiyn-CUQtxdUZWMkFfQzdObUE&export=download (https://github.com/coldKnight/TrafficLight_Detection-TensorFlowAPI)

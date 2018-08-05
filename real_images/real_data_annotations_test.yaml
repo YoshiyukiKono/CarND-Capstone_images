@@ -1,0 +1,149 @@
+- annotations:
+  - {class: Green, x_width: 18.75485956035061, xmin: 647.417752023305, y_height: 55.514384298637935,
+    ymin: 417.6439297524945}
+  class: image
+  filename: green/left0000.jpg
+- annotations:
+  - {class: Green, x_width: 19.933736447001365, xmin: 646.5603870148317, y_height: 55.83589617681537,
+    ymin: 417.32241787431707}
+  class: image
+  filename: green/left0002.jpg
+- annotations:
+  - {class: Green, x_width: 20.25524832517874, xmin: 646.3460457627134, y_height: 56.264578681052,
+    ymin: 417.32241787431707}
+  class: image
+  filename: green/left0007.jpg
+- annotations:
+  - {class: Green, x_width: 20.148077699119654, xmin: 646.3460457627134, y_height: 56.05023742893371,
+    ymin: 417.2152472482579}
+  class: image
+  filename: green/left0011.jpg
+- annotations:
+  - {class: Green, x_width: 19.290712690646387, xmin: 647.3105813972458, y_height: 54.442678038046495,
+    ymin: 418.50129476096765}
+  class: image
+  filename: green/left0020.jpg
+- annotations:
+  - {class: Green, x_width: 19.505053942764675, xmin: 646.7747282669501, y_height: 56.264578681052,
+    ymin: 418.28695350884936}
+  class: image
+  filename: green/left0032.jpg
+- annotations:
+  - {class: Green, x_width: 19.397883316705474, xmin: 643.5596094851757, y_height: 55.72872555075628,
+    ymin: 419.8945128997366}
+  class: image
+  filename: green/left0047.jpg
+- annotations:
+  - {class: Green, x_width: 21.219783959711094, xmin: 638.9512725646323, y_height: 59.15818558464895,
+    ymin: 420.6447072821506}
+  class: image
+  filename: green/left0062.jpg
+- annotations:
+  - {class: Green, x_width: 21.755637090006758, xmin: 636.0576656610353, y_height: 62.051792488245894,
+    ymin: 419.8945128997366}
+  class: image
+  filename: green/left0077.jpg
+- annotations:
+  - {class: Green, x_width: 77.5154341065633, xmin: 142.4704969458594, y_height: 203.298580654482,
+    ymin: 331.7732353311008}
+  class: image
+  filename: green/left0265.jpg
+- annotations:
+  - {class: Red, x_width: 37.27488077907378, xmin: 526.5415362351484, y_height: 105.14585013951796,
+    ymin: 386.10639218614415}
+  class: image
+  filename: red/left0140.jpg
+- annotations:
+  - {class: Red, x_width: 37.816404470779446, xmin: 510.20557153536066, y_height: 111.19286469689797,
+    ymin: 377.26150522161817}
+  class: image
+  filename: red/left0144.jpg
+- annotations:
+  - {class: Red, x_width: 40.52402292930782, xmin: 476.7213565982266, y_height: 119.67673586695349,
+    ymin: 377.6225210160886}
+  class: image
+  filename: red/left0150.jpg
+- annotations:
+  - {class: Red, x_width: 44.85079722603615, xmin: 443.05663376385735, y_height: 130.1642446963201,
+    ymin: 381.4131868580283}
+  class: image
+  filename: red/left0156.jpg
+- annotations:
+  - {class: Red, x_width: 54.211936776654795, xmin: 344.36033079255395, y_height: 154.74581014181285,
+    ymin: 364.4671054655855}
+  class: image
+  filename: red/left0168.jpg
+- annotations:
+  - {class: Red, x_width: 59.811291748891506, xmin: 276.53178078796, y_height: 171.416616990972,
+    ymin: 357.9769440204931}
+  class: image
+  filename: red/left0173.jpg
+- annotations:
+  - {class: Red, x_width: 62.992743437662284, xmin: 256.9340383851317, y_height: 175.10710094994607,
+    ymin: 355.1772665343747}
+  class: image
+  filename: red/left0174.jpg
+- annotations:
+  - {class: Red, x_width: 77.15656635607004, xmin: 140.67615819339287, y_height: 202.04254352775553,
+    ymin: 333.20870633307464}
+  class: image
+  filename: red/left0180.jpg
+- annotations:
+  - {class: Red, x_width: 87.92259887087054, xmin: 15.610747146460687, y_height: 227.8810215632767,
+    ymin: 315.44475268365386}
+  class: image
+  filename: red/left0186.jpg
+- annotations:
+  - {class: Red, x_width: 85.76939236791046, xmin: 69.62034359570973, y_height: 218.5504600504496,
+    ymin: 323.8781448202476}
+  class: image
+  filename: red/left0260.jpg
+- annotations:
+  - {class: Yellow, x_width: 20.949999999999932, xmin: 636.9000000000001, y_height: 63.5,
+    ymin: 420.20000000000005}
+  class: image
+  filename: yellow/left0079.jpg
+- annotations:
+  - {class: Yellow, x_width: 22.850000000000023, xmin: 634.85, y_height: 63.5, ymin: 418.05}
+  class: image
+  filename: yellow/left0080.jpg
+- annotations:
+  - {class: Yellow, x_width: 22.100000000000023, xmin: 634.95, y_height: 63.05000000000001,
+    ymin: 418.05}
+  class: image
+  filename: yellow/left0081.jpg
+- annotations:
+  - {class: Yellow, x_width: 22.950000000000045, xmin: 628.0, y_height: 67.35000000000002,
+    ymin: 414.85}
+  class: image
+  filename: yellow/left0091.jpg
+- annotations:
+  - {class: Yellow, x_width: 23.350000000000023, xmin: 626.5500000000001, y_height: 67.40000000000003,
+    ymin: 415.8}
+  class: image
+  filename: yellow/left0092.jpg
+- annotations:
+  - {class: Yellow, x_width: 24.94680529065795, xmin: 608.5178780462845, y_height: 75.51012876568285,
+    ymin: 411.8734296309974}
+  class: image
+  filename: yellow/left0106.jpg
+- annotations:
+  - {class: Yellow, x_width: 26.621087524930317, xmin: 604.918171242599, y_height: 76.1798416593918,
+    ymin: 411.2874308490021}
+  class: image
+  filename: yellow/left0107.jpg
+- annotations:
+  - {class: Yellow, x_width: 29.048796764625195, xmin: 586.8359231124576, y_height: 84.71868105418076,
+    ymin: 405.6785853641897}
+  class: image
+  filename: yellow/left0119.jpg
+- annotations:
+  - {class: Yellow, x_width: 28.965082652911633, xmin: 584.7430703196172, y_height: 85.38839394788971,
+    ymin: 405.5948712524761}
+  class: image
+  filename: yellow/left0120.jpg
+- annotations:
+  - {class: Yellow, x_width: 29.21622498805243, xmin: 574.5299486905559, y_height: 89.57409953357052,
+    ymin: 402.5811632307859}
+  class: image
+  filename: yellow/left0125.jpg
